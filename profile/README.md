@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="https://avatars.githubusercontent.com/u/317356829?s=400&u=b09d8b85116c38f9bb439809917305b49a3344b3&v=4" style="border-radius: 50%"/>
 # 🤖 SETREM Robot
 
 **Robô autônomo de locomoção e conversação para o campus da SETREM**
