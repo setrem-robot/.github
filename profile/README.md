@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/317356829?v=4" width="140" alt="SETREM Robot" />
+<img src="atlas.png" width="140" alt="O rosto da Atlas: dois olhos ciano quadrados e a boca neutra" />
 
 # 🤖 SETREM Robot
 
