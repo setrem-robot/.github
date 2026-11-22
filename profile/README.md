@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="atlas.png" width="140" alt="Os olhos da Atlas: dois olhos ciano quadrados" />
+<img src="atlas.png" width="140" alt="Os olhos da Atlas, em ciano" />
 
 # 🤖 SETREM Robot
 
